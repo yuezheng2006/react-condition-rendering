@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.condition {
+  border: 1px solid #ccc;
+  margin: 20px;
+  padding: 10px;
+  color: #fff;
+  background-color: #171717;
+}
+
+button {
+  background-color: #236aec;
+  color: #fff;
+  padding: 4px 8px;
+  border: 0;
+}
+
+h2 {
+  text-align: center;
+}
